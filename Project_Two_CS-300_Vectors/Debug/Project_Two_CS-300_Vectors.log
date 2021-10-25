@@ -1,0 +1,7 @@
+﻿  Project_Two_CS-300_Vectors.cpp
+C:\Users\ShelayahPC\source\repos\Project_Two_CS-300_Vectors\Project_Two_CS-300_Vectors.cpp(43,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ShelayahPC\source\repos\Project_Two_CS-300_Vectors\Project_Two_CS-300_Vectors.cpp(112,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ShelayahPC\source\repos\Project_Two_CS-300_Vectors\Project_Two_CS-300_Vectors.cpp(113,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ShelayahPC\source\repos\Project_Two_CS-300_Vectors\Project_Two_CS-300_Vectors.cpp(161,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ShelayahPC\source\repos\Project_Two_CS-300_Vectors\Project_Two_CS-300_Vectors.cpp(173,35): warning C4018: '<': signed/unsigned mismatch
+  Project_Two_CS-300_Vectors.vcxproj -> C:\Users\ShelayahPC\source\repos\Project_Two_CS-300_Vectors\Debug\Project_Two_CS-300_Vectors.exe
